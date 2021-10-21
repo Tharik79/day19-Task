@@ -1,0 +1,30 @@
+.container{
+    margin-top: 5px;
+    background-color: wheat;
+    color:rgb(217, 43, 223);
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1pt;
+    
+}
+.form-control{
+    padding: 10px;
+    margin-block: 10px;
+
+}
+.card-header{
+    background-color: rgb(162, 211, 166);
+}
+.legend{
+    margin-top: 5rem;
+    text-align: center;
+}
+.table{
+    margin-top: 50px;
+    border-style: solid;
+    background-color: white;
+    padding: 5px;
+    border: 2px solid black;
+
+    
+}
